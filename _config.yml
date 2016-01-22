@@ -3,11 +3,14 @@ menu:
   Home: /
   Archives: /archives
   About: /about
+  Github: https://github.com/cvs79
+
 # Header Icon
 menu_icon:
   Home: nav-home-icon
   Archives: nav-archives-icon
   About: nav-about-icon
+  Github: nav-github-icon
 
 rss: /atom.xml
 
@@ -18,7 +21,9 @@ fancybox: true
 # Miscellaneous
 google_analytics:
 favicon: /favicon.png
-twitter:
+twitter: cvsluijsveld
 google_plus:
 fb_admins:
 fb_app_id:
+
+# subtitle: Coding and more
